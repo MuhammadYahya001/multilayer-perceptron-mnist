@@ -35,3 +35,17 @@ The project helped me understand exactly how neural networks work under the hood
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR-GITHUB-USERNAME/mvc-mlp-24i-2030.git
+
+2. Open the notebook
+    ```bash
+    jupyter notebook MLP_MNIST_Task7.ipynb
+## 📊 Results
+When you run the notebook, it automatically saves:
+
+loss_curve.png → Training vs Test loss curve
+sample_predictions.png → One sample image per digit (0-9) with predictions
+
+📚 References
+
+LeCun, Y., Bottou, L., Bengio, Y., Haffner, P.: Gradient-based learning applied to document recognition. Proc. IEEE 86(11), 2278–2324 (1998)
+Rumelhart, D.E., Hinton, G.E., Williams, R.J.: Learning representations by back-propagating errors. Nature 323, 533–536 (1986)
