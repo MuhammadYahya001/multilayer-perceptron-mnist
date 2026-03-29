@@ -4,7 +4,7 @@
 **Muhammad Yahya**  
 **Roll No: 24i-2030**  
 **National University of Computer and Emerging Sciences**  
-**Email:** 24i-2030@nu.edu.pk
+**Email:** i242030@isb.nu.edu.pk
 
 ## 📋 Project Overview
 This is my **MVC Project** where I built a Multilayer Perceptron (MLP) completely from scratch.
