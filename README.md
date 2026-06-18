@@ -1,4 +1,4 @@
-# mvc-mlp-24i-2030
+# multilayer-perceptron-mnist
 # Multilayer Perceptron from Scratch: Manual Computation and MNIST Training
 
 **Muhammad Yahya**  
@@ -34,7 +34,7 @@ The project helped me understand exactly how neural networks work under the hood
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-GITHUB-USERNAME/mvc-mlp-24i-2030.git
+   git clone https://github.com/YOUR-GITHUB-USERNAME/multilayer-perceptron-mnist.git
 
 2. Open the notebook
     ```bash
